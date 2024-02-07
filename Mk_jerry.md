@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerr</h1>
+<h1 align="center">Hi 👋, I'm Jerry</h1>
 <h3 align="center">A passionate developer from Kerala in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dx-mods&label=Profile%20views&color=0e75b6&style=flat" alt="dx-mods" /> </p>
@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ziyan_kp" target="blank"><img src="https://img.shields.io/twitter/follow/ziyan_kp?logo=twitter&style=for-the-badge" alt="ziyan_kp" /></a> </p>
 
-- 🔭 I’m currently working on [BIXBY-BOT](https://github.com/DX-MODS/BIXBY-BOT)
+- 🔭 I’m currently working on [OGGY-BOT](https://github.com/mksir12)
 
-- 🌱 I’m currently learning **Ethical Hacking**
-
-- 👯 I’m looking to collaborate on **Telegrams bots and wa bots**
+- 🌱 I’m currently learning **Whatsapp Bot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DX-MODS](https://github.com/DX-MODS)
 
 - 💬 Ask me about **python,nodejs.react**
 
-- 📫 How to reach me **ziyankp44@gmail.com**
-
-- ⚡ Fun fact **I Like to collab**
+- 📫 How to reach me **https://wa.me/994402459044**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
