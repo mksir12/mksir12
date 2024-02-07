@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ziyan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jerr</h1>
+<h3 align="center">A passionate developer from Kerala in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dx-mods&label=Profile%20views&color=0e75b6&style=flat" alt="dx-mods" /> </p>
 
