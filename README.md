@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dx-mods" alt="dx-mods" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ziyan_kp" target="blank"><img src="https://img.shields.io/twitter/follow/ziyan_kp?logo=twitter&style=for-the-badge" alt="ziyan_kp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ziyan_kp?logo=twitter&style=for-the-badge" alt="Mk-Jerry" /></a> </p>
 
 - 🔭 I’m currently working on [OGGY-BOT](https://github.com/mksir12)
 
@@ -36,8 +36,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ziyankp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mk-Jerry" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dx-mods&show_icons=true&locale=en&layout=compact" alt="mksir12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mksir12&show_icons=true&locale=en&layout=compact" alt="mksir12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx-mods&show_icons=true&locale=en" alt="mksir12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkair12&show_icons=true&locale=en" alt="mksir12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dx-mods&" alt="dx-mods" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mksir12&" alt="dx-mods" /></p>
