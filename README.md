@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dx-mods" alt="dx-mods" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ziyan_kp?logo=twitter&style=for-the-badge" alt="Mk-Jerry" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/mk-jerry?logo=twitter&style=for-the-badge" alt="Mk-Jerry" /></a> </p>
 
 - 🔭 I’m currently working on [OGGY-BOT](https://github.com/mksir12)
 
@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mksir12&show_icons=true&locale=en&layout=compact" alt="mksir12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkair12&show_icons=true&locale=en" alt="mksir12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mksir12&show_icons=true&locale=en" alt="mksir12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mksir12&" alt="dx-mods" /></p>
