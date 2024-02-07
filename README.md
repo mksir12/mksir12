@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerry</h1>
+<h1 align="center">Hyh 👋🏻, I'm Jerry</h1>
 <h3 align="center">A passionate developer from Kerala in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dx-mods&label=Profile%20views&color=0e75b6&style=flat" alt="dx-mods" /> </p>
@@ -36,7 +36,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ziyankp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mk-Jerry" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dx-mods&show_icons=true&locale=en&layout=compact" alt="dx-mods" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dx-mods&show_icons=true&locale=en&layout=compact" alt="mksir12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx-mods&show_icons=true&locale=en" alt="mksir12" /></p>
 
